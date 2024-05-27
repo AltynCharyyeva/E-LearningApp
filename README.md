@@ -1,6 +1,6 @@
 # E-LearningApp
 
-The E-Learning App is a web application built using Spring Boot and React. It provides a robust platform for delivering educational content online, facilitating seamless learning experiences for students and instructors.
+The E-Learning App is a web application built using Spring Boot and React. It provides a robust platform for delivering educational content online, facilitating seamless learning experiences for students and instructors. The project has more parts. Part1 is only the backend. Starting from the Part2 front-end app(my-app), and some other functionalities are also added.
 
 # Features:
 - User Authentication: registration and login system for users.
