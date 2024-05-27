@@ -1,0 +1,42 @@
+.lecture-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+}
+
+.lecture-content {
+    text-align: center;
+}
+
+.lecture-name {
+    font-size: 24px; /* Adjust as needed */
+    margin-bottom: 20px;
+}
+
+.lecture-text-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 80%; /* Adjust as needed */
+    max-width: 600px; /* Adjust as needed */
+    margin-top: 20px; /* Add margin to create space between name and text */
+}
+
+.lecture-text {
+    font-size: 16px; /* Adjust as needed */
+}
+
+.bookmark-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.bookmark-button:hover {
+    background-color: #0056b3;
+}
+
